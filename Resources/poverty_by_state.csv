@@ -1,0 +1,35 @@
+indicator,year,geography,age,sex,povertyThreshold,count,population,percent,ci,
+"poverty","2011","Minnesota","Children (<18 years)","null","100%","194260","1260357","15.4","(14.7 - 16.1)"
+"poverty","2012","Minnesota","Children (<18 years)","null","100%","183763","1261005","14.6","(13.9 - 15.3)"
+"poverty","2013","Minnesota","Children (<18 years)","null","100%","176719","1258929","14","(13.3 - 14.7)"
+"poverty","2014","Minnesota","Children (<18 years)","null","100%","188717","1262433","14.9","(14.1 - 15.7)"
+
+Data on children without health insurance are available for both sexes combined from 2006-present only.
+Due to a substantial change in methodology the U.S. Census Bureau does not recommend comparing 2005-2007 data to 2008-onward.
+When comparing county estimates confidence intervals should be used with caution because the model-based estimates result in correlated percentages.
+Health insurance data extracted from:
+Small Area Health Insurance Estimates (SAHIE)
+U.S. Census Bureau
+Web: http://www.census.gov/did/www/sahie/
+
+Household income is calculated using all sources of individual income including all individuals residing together who are related. Median household income means that half of all households have a higher annual income and half are lower than the median income.
+When comparing county estimates confidence intervals should be used with caution because the model-based estimates result in correlated percentages.
+Source for household income data: 2014 American Community Survey.
+
+Poverty is defined here by comparing a household's annual income to a set of federal poverty thresholds as determined by the U.S. Census Bureau. Both 100% and 185% thresholds are shown. In 2014 for example a two adult two child household below the 100% poverty threshold had an annual income below $24008 (and below the 185% poverty threshold if less than $44415 in annual income). Return to http://health.mn.gov/mndatapoverty to learn more. Source: 2014 American Community Survey.
+Poverty data extracted from:
+Small Area Income & Poverty Estimates (SAIPE)
+U.S. Census Bureau
+Web: http://www.census.gov/did/www/saipe/
+
+Source:
+Minnesota Public Health Data Access
+Minnesota Environmental Public Health Tracking Program
+Minnesota Department of Health
+P.O. Box 64882
+"St. Paul, MN 55164-0882"
+Phone: (651) 201-5900 or toll free: 1-800-205-4987
+Fax: (651) 201-5926
+E-mail: tracking.health@state.mn.us
+Web: http://health.mn.gov/mndata 
+
