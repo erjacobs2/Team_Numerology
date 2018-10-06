@@ -1,0 +1,119 @@
+indicator,year,geography,age,sex,povertyThreshold,count,population,percent,ci,
+"poverty","2010-2014","Minnesota","Children (<18 years)","null","100%","186585","1261113","14.8","(14.5 - 15.1)"
+"poverty","2010-2014","Aitkin","Children (<18 years)","null","100%","364","2756","13.2","(10.0 - 16.4)"
+"poverty","2010-2014","Anoka","Children (<18 years)","null","100%","8689","83082","10.5","(9.4 - 11.6)"
+"poverty","2010-2014","Becker","Children (<18 years)","null","100%","1470","7952","18.5","(15.4 - 21.6)"
+"poverty","2010-2014","Beltrami","Children (<18 years)","null","100%","2874","11059","26","(23.0 - 29.0)"
+"poverty","2010-2014","Benton","Children (<18 years)","null","100%","1708","9505","18","(14.2 - 21.8)"
+"poverty","2010-2014","Big Stone","Children (<18 years)","null","100%","239","1064","22.5","(15.4 - 29.6)"
+"poverty","2010-2014","Blue Earth","Children (<18 years)","null","100%","1879","12500","15","(12.4 - 17.6)"
+"poverty","2010-2014","Brown","Children (<18 years)","null","100%","500","5362","9.3","(6.9 - 11.7)"
+"poverty","2010-2014","Carlton","Children (<18 years)","null","100%","1300","8145","16","(12.6 - 19.4)"
+"poverty","2010-2014","Carver","Children (<18 years)","null","100%","1206","27001","4.5","(3.3 - 5.7)"
+"poverty","2010-2014","Cass","Children (<18 years)","null","100%","1674","5837","28.7","(25.6 - 31.8)"
+"poverty","2010-2014","Chippewa","Children (<18 years)","null","100%","475","2765","17.2","(11.1 - 23.3)"
+"poverty","2010-2014","Chisago","Children (<18 years)","null","100%","684","12955","5.3","(3.7 - 6.9)"
+"poverty","2010-2014","Clay","Children (<18 years)","null","100%","1955","13766","14.2","(11.8 - 16.6)"
+"poverty","2010-2014","Clearwater","Children (<18 years)","null","100%","512","2128","24.1","(19.9 - 28.3)"
+"poverty","2010-2014","Cook","Children (<18 years)","null","100%","100","827","12.1","(6.8 - 17.4)"
+"poverty","2010-2014","Cottonwood","Children (<18 years)","null","100%","538","2651","20.3","(15.0 - 25.6)"
+"poverty","2010-2014","Crow Wing","Children (<18 years)","null","100%","2063","13898","14.8","(11.7 - 17.9)"
+"poverty","2010-2014","Dakota","Children (<18 years)","null","100%","11095","102491","10.8","(9.8 - 11.8)"
+"poverty","2010-2014","Dodge","Children (<18 years)","null","100%","521","5637","9.2","(7.0 - 11.4)"
+"poverty","2010-2014","Douglas","Children (<18 years)","null","100%","829","7472","11.1","(8.5 - 13.7)"
+"poverty","2010-2014","Faribault","Children (<18 years)","null","100%","657","2957","22.2","(17.1 - 27.3)"
+"poverty","2010-2014","Fillmore","Children (<18 years)","null","100%","772","4946","15.6","(12.7 - 18.5)"
+"poverty","2010-2014","Freeborn","Children (<18 years)","null","100%","1008","6734","15","(11.5 - 18.5)"
+"poverty","2010-2014","Goodhue","Children (<18 years)","null","100%","1595","10454","15.3","(12.3 - 18.3)"
+"poverty","2010-2014","Grant","Children (<18 years)","null","100%","202","1265","16","(11.4 - 20.6)"
+"poverty","2010-2014","Hennepin","Children (<18 years)","null","100%","45721","261905","17.5","(16.7 - 18.3)"
+"poverty","2010-2014","Houston","Children (<18 years)","null","100%","677","4090","16.6","(11.7 - 21.5)"
+"poverty","2010-2014","Hubbard","Children (<18 years)","null","100%","805","4309","18.7","(15.6 - 21.8)"
+"poverty","2010-2014","Isanti","Children (<18 years)","null","100%","692","9459","7.3","(5.2 - 9.4)"
+"poverty","2010-2014","Itasca","Children (<18 years)","null","100%","1891","9414","20.1","(16.4 - 23.8)"
+"poverty","2010-2014","Jackson","Children (<18 years)","null","100%","367","2280","16.1","(11.0 - 21.2)"
+"poverty","2010-2014","Kanabec","Children (<18 years)","null","100%","820","3601","22.8","(17.9 - 27.7)"
+"poverty","2010-2014","Kandiyohi","Children (<18 years)","null","100%","2176","9895","22","(18.5 - 25.5)"
+"poverty","2010-2014","Kittson","Children (<18 years)","null","100%","131","983","13.3","(7.7 - 18.9)"
+"poverty","2010-2014","Koochiching","Children (<18 years)","null","100%","470","2569","18.3","(11.4 - 25.2)"
+"poverty","2010-2014","Lac qui Parle","Children (<18 years)","null","100%","129","1458","8.8","(6.1 - 11.5)"
+"poverty","2010-2014","Lake","Children (<18 years)","null","100%","440","1961","22.4","(15.7 - 29.1)"
+"poverty","2010-2014","Lake of the Woods","Children (<18 years)","null","100%","46","782","5.9","(-0.7 - 12.5)"
+"poverty","2010-2014","Le Sueur","Children (<18 years)","null","100%","729","6713","10.9","(8.2 - 13.6)"
+"poverty","2010-2014","Lincoln","Children (<18 years)","null","100%","103","1280","8","(4.9 - 11.1)"
+"poverty","2010-2014","Lyon","Children (<18 years)","null","100%","1104","6168","17.9","(14.0 - 21.8)"
+"poverty","2010-2014","McLeod","Children (<18 years)","null","100%","957","8626","11.1","(8.6 - 13.6)"
+"poverty","2010-2014","Mahnomen","Children (<18 years)","null","100%","641","1625","39.4","(34.0 - 44.8)"
+"poverty","2010-2014","Marshall","Children (<18 years)","null","100%","172","2111","8.1","(5.7 - 10.5)"
+"poverty","2010-2014","Martin","Children (<18 years)","null","100%","763","4398","17.3","(12.0 - 22.6)"
+"poverty","2010-2014","Meeker","Children (<18 years)","null","100%","789","5623","14","(10.3 - 17.7)"
+"poverty","2010-2014","Mille Lacs","Children (<18 years)","null","100%","1031","6214","16.6","(13.6 - 19.6)"
+"poverty","2010-2014","Morrison","Children (<18 years)","null","100%","993","7783","12.8","(10.8 - 14.8)"
+"poverty","2010-2014","Mower","Children (<18 years)","null","100%","1938","9635","20.1","(15.6 - 24.6)"
+"poverty","2010-2014","Murray","Children (<18 years)","null","100%","242","1819","13.3","(9.9 - 16.7)"
+"poverty","2010-2014","Nicollet","Children (<18 years)","null","100%","652","7164","9.1","(6.5 - 11.7)"
+"poverty","2010-2014","Nobles","Children (<18 years)","null","100%","1186","5537","21.4","(17.0 - 25.8)"
+"poverty","2010-2014","Norman","Children (<18 years)","null","100%","322","1519","21.2","(15.4 - 27.0)"
+"poverty","2010-2014","Olmsted","Children (<18 years)","null","100%","3586","36248","9.9","(8.2 - 11.6)"
+"poverty","2010-2014","Otter Tail","Children (<18 years)","null","100%","1767","12094","14.6","(12.7 - 16.5)"
+"poverty","2010-2014","Pennington","Children (<18 years)","null","100%","316","3234","9.8","(6.5 - 13.1)"
+"poverty","2010-2014","Pine","Children (<18 years)","null","100%","1326","6098","21.7","(17.9 - 25.5)"
+"poverty","2010-2014","Pipestone","Children (<18 years)","null","100%","375","2264","16.6","(12.3 - 20.9)"
+"poverty","2010-2014","Polk","Children (<18 years)","null","100%","1094","7316","15","(11.9 - 18.1)"
+"poverty","2010-2014","Pope","Children (<18 years)","null","100%","240","2291","10.5","(6.6 - 14.4)"
+"poverty","2010-2014","Ramsey","Children (<18 years)","null","100%","29562","120032","24.6","(23.4 - 25.8)"
+"poverty","2010-2014","Red Lake","Children (<18 years)","null","100%","157","997","15.7","(11.6 - 19.8)"
+"poverty","2010-2014","Redwood","Children (<18 years)","null","100%","575","3843","15","(11.8 - 18.2)"
+"poverty","2010-2014","Renville","Children (<18 years)","null","100%","654","3381","19.3","(14.9 - 23.7)"
+"poverty","2010-2014","Rice","Children (<18 years)","null","100%","2479","14631","16.9","(13.3 - 20.5)"
+"poverty","2010-2014","Rock","Children (<18 years)","null","100%","462","2382","19.4","(12.8 - 26.0)"
+"poverty","2010-2014","Roseau","Children (<18 years)","null","100%","612","3851","15.9","(12.6 - 19.2)"
+"poverty","2010-2014","St. Louis","Children (<18 years)","null","100%","7841","38050","20.6","(19.0 - 22.2)"
+"poverty","2010-2014","Scott","Children (<18 years)","null","100%","2578","39381","6.5","(5.1 - 7.9)"
+"poverty","2010-2014","Sherburne","Children (<18 years)","null","100%","2242","24965","9","(7.2 - 10.8)"
+"poverty","2010-2014","Sibley","Children (<18 years)","null","100%","707","3678","19.2","(15.0 - 23.4)"
+"poverty","2010-2014","Stearns","Children (<18 years)","null","100%","4322","34358","12.6","(10.9 - 14.3)"
+"poverty","2010-2014","Steele","Children (<18 years)","null","100%","1567","9161","17.1","(14.2 - 20.0)"
+"poverty","2010-2014","Stevens","Children (<18 years)","null","100%","196","1982","9.9","(5.2 - 14.6)"
+"poverty","2010-2014","Swift","Children (<18 years)","null","100%","292","2023","14.4","(9.7 - 19.1)"
+"poverty","2010-2014","Todd","Children (<18 years)","null","100%","1501","5897","25.5","(21.5 - 29.5)"
+"poverty","2010-2014","Traverse","Children (<18 years)","null","100%","77","732","10.5","(7.0 - 14.0)"
+"poverty","2010-2014","Wabasha","Children (<18 years)","null","100%","524","4859","10.8","(7.2 - 14.4)"
+"poverty","2010-2014","Wadena","Children (<18 years)","null","100%","789","3280","24.1","(18.8 - 29.4)"
+"poverty","2010-2014","Waseca","Children (<18 years)","null","100%","621","4515","13.8","(10.2 - 17.4)"
+"poverty","2010-2014","Washington","Children (<18 years)","null","100%","4377","62517","7","(6.0 - 8.0)"
+"poverty","2010-2014","Watonwan","Children (<18 years)","null","100%","357","2727","13.1","(6.8 - 19.4)"
+"poverty","2010-2014","Wilkin","Children (<18 years)","null","100%","132","1505","8.8","(4.5 - 13.1)"
+"poverty","2010-2014","Winona","Children (<18 years)","null","100%","1193","9405","12.7","(9.8 - 15.6)"
+"poverty","2010-2014","Wright","Children (<18 years)","null","100%","2711","36928","7.3","(6.2 - 8.4)"
+"poverty","2010-2014","Yellow Medicine","Children (<18 years)","null","100%","457","2358","19.4","(14.7 - 24.1)"
+
+Data on children without health insurance are available for both sexes combined from 2006-present only.
+Due to a substantial change in methodology the U.S. Census Bureau does not recommend comparing 2005-2007 data to 2008-onward.
+When comparing county estimates confidence intervals should be used with caution because the model-based estimates result in correlated percentages.
+Health insurance data extracted from:
+Small Area Health Insurance Estimates (SAHIE)
+U.S. Census Bureau
+Web: http://www.census.gov/did/www/sahie/
+
+Household income is calculated using all sources of individual income including all individuals residing together who are related. Median household income means that half of all households have a higher annual income and half are lower than the median income.
+When comparing county estimates confidence intervals should be used with caution because the model-based estimates result in correlated percentages.
+Source for household income data: 2014 American Community Survey.
+
+Poverty is defined here by comparing a household's annual income to a set of federal poverty thresholds as determined by the U.S. Census Bureau. Both 100% and 185% thresholds are shown. In 2014 for example a two adult two child household below the 100% poverty threshold had an annual income below $24008 (and below the 185% poverty threshold if less than $44415 in annual income). Return to http://health.mn.gov/mndatapoverty to learn more. Source: 2014 American Community Survey.
+Poverty data extracted from:
+Small Area Income & Poverty Estimates (SAIPE)
+U.S. Census Bureau
+Web: http://www.census.gov/did/www/saipe/
+
+Source:
+Minnesota Public Health Data Access
+Minnesota Environmental Public Health Tracking Program
+Minnesota Department of Health
+P.O. Box 64882
+"St. Paul, MN 55164-0882"
+Phone: (651) 201-5900 or toll free: 1-800-205-4987
+Fax: (651) 201-5926
+E-mail: tracking.health@state.mn.us
+Web: http://health.mn.gov/mndata 
+
