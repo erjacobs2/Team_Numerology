@@ -1,0 +1,523 @@
+Year,County Name (State),Under Age 18 in Poverty Count,Under Age 18 in Poverty Percent
+2011,Aitkin County (MN),640,22.9
+2011,Anoka County (MN),"9,323",11.1
+2011,Becker County (MN),"1,595",20.4
+2011,Beltrami County (MN),"3,280",29.6
+2011,Benton County (MN),"1,320",14.1
+2011,Big Stone County (MN),225,21.0
+2011,Blue Earth County (MN),"2,100",17.3
+2011,Brown County (MN),631,11.5
+2011,Carlton County (MN),"1,074",13.4
+2011,Carver County (MN),"1,678",6.2
+2011,Cass County (MN),"1,758",30.1
+2011,Chippewa County (MN),455,16.1
+2011,Chisago County (MN),"1,171",8.8
+2011,Clay County (MN),"2,245",16.6
+2011,Clearwater County (MN),639,30.2
+2011,Cook County (MN),144,16.6
+2011,Cottonwood County (MN),457,16.6
+2011,Crow Wing County (MN),"2,686",19.3
+2011,Dakota County (MN),"9,441",9.2
+2011,Dodge County (MN),574,10.1
+2011,Douglas County (MN),"1,054",13.7
+2011,Faribault County (MN),640,20.9
+2011,Fillmore County (MN),877,17.9
+2011,Freeborn County (MN),"1,148",17.3
+2011,Goodhue County (MN),"1,351",12.8
+2011,Grant County (MN),205,16.3
+2011,Hennepin County (MN),"45,890",17.7
+2011,Houston County (MN),530,12.6
+2011,Hubbard County (MN),969,22.8
+2011,Isanti County (MN),"1,190",12.5
+2011,Itasca County (MN),"1,934",20.7
+2011,Jackson County (MN),388,17.3
+2011,Kanabec County (MN),805,22.0
+2011,Kandiyohi County (MN),"1,817",18.6
+2011,Kittson County (MN),152,15.6
+2011,Koochiching County (MN),574,21.5
+2011,Lac qui Parle County (MN),216,14.6
+2011,Lake County (MN),340,17.0
+2011,Lake of the Woods County (MN),141,18.1
+2011,Le Sueur County (MN),767,11.2
+2011,Lincoln County (MN),163,12.7
+2011,Lyon County (MN),"1,007",16.3
+2011,McLeod County (MN),"1,005",11.2
+2011,Mahnomen County (MN),592,37.4
+2011,Marshall County (MN),276,12.9
+2011,Martin County (MN),831,18.7
+2011,Meeker County (MN),739,12.8
+2011,Mille Lacs County (MN),"1,184",18.9
+2011,Morrison County (MN),"1,339",16.8
+2011,Mower County (MN),"1,915",19.6
+2011,Murray County (MN),251,13.5
+2011,Nicollet County (MN),858,12.0
+2011,Nobles County (MN),"1,135",20.8
+2011,Norman County (MN),297,18.5
+2011,Olmsted County (MN),"3,910",10.8
+2011,Otter Tail County (MN),"1,891",15.7
+2011,Pennington County (MN),531,16.5
+2011,Pine County (MN),"1,490",24.0
+2011,Pipestone County (MN),413,17.8
+2011,Polk County (MN),"1,478",20.4
+2011,Pope County (MN),315,14.0
+2011,Ramsey County (MN),"30,158",25.6
+2011,Red Lake County (MN),158,16.1
+2011,Redwood County (MN),560,14.5
+2011,Renville County (MN),591,17.1
+2011,Rice County (MN),"2,031",13.8
+2011,Rock County (MN),356,14.6
+2011,Roseau County (MN),610,15.4
+2011,St. Louis County (MN),"8,039",21.3
+2011,Scott County (MN),"2,783",7.1
+2011,Sherburne County (MN),"2,307",9.2
+2011,Sibley County (MN),632,16.9
+2011,Stearns County (MN),"4,387",13.0
+2011,Steele County (MN),"1,280",13.6
+2011,Stevens County (MN),235,12.2
+2011,Swift County (MN),314,15.0
+2011,Todd County (MN),"1,464",24.5
+2011,Traverse County (MN),137,18.8
+2011,Wabasha County (MN),639,13.1
+2011,Wadena County (MN),818,25.5
+2011,Waseca County (MN),603,13.5
+2011,Washington County (MN),"4,421",7.1
+2011,Watonwan County (MN),482,17.6
+2011,Wilkin County (MN),197,12.9
+2011,Winona County (MN),"1,386",14.6
+2011,Wright County (MN),"3,169",8.6
+2011,Yellow Medicine County (MN),357,15.0
+2012,Aitkin County (MN),662,24.3
+2012,Anoka County (MN),"8,891",10.7
+2012,Becker County (MN),"1,631",20.6
+2012,Beltrami County (MN),"3,138",28.0
+2012,Benton County (MN),"1,153",12.4
+2012,Big Stone County (MN),212,20.2
+2012,Blue Earth County (MN),"1,889",15.2
+2012,Brown County (MN),581,10.7
+2012,Carlton County (MN),"1,026",12.9
+2012,Carver County (MN),"1,311",4.9
+2012,Cass County (MN),"1,660",28.3
+2012,Chippewa County (MN),398,14.5
+2012,Chisago County (MN),"1,122",8.8
+2012,Clay County (MN),"1,834",13.4
+2012,Clearwater County (MN),516,24.7
+2012,Cook County (MN),148,17.3
+2012,Cottonwood County (MN),450,16.8
+2012,Crow Wing County (MN),"2,674",19.2
+2012,Dakota County (MN),"10,119",9.9
+2012,Dodge County (MN),595,10.6
+2012,Douglas County (MN),"1,006",13.2
+2012,Faribault County (MN),642,21.3
+2012,Fillmore County (MN),866,17.9
+2012,Freeborn County (MN),"1,129",17.1
+2012,Goodhue County (MN),"1,299",12.3
+2012,Grant County (MN),214,17.2
+2012,Hennepin County (MN),"45,436",17.3
+2012,Houston County (MN),521,12.6
+2012,Hubbard County (MN),891,21.2
+2012,Isanti County (MN),"1,180",12.6
+2012,Itasca County (MN),"1,801",19.3
+2012,Jackson County (MN),361,15.9
+2012,Kanabec County (MN),764,21.7
+2012,Kandiyohi County (MN),"1,939",19.9
+2012,Kittson County (MN),134,13.8
+2012,Koochiching County (MN),564,21.4
+2012,Lac qui Parle County (MN),212,14.2
+2012,Lake County (MN),331,16.6
+2012,Lake of the Woods County (MN),133,18.0
+2012,Le Sueur County (MN),713,10.5
+2012,Lincoln County (MN),164,12.9
+2012,Lyon County (MN),979,15.8
+2012,McLeod County (MN),995,11.3
+2012,Mahnomen County (MN),558,34.4
+2012,Marshall County (MN),279,13.0
+2012,Martin County (MN),850,19.3
+2012,Meeker County (MN),838,14.9
+2012,Mille Lacs County (MN),"1,119",18.1
+2012,Morrison County (MN),"1,204",15.4
+2012,Mower County (MN),"1,780",18.3
+2012,Murray County (MN),246,13.4
+2012,Nicollet County (MN),784,11.0
+2012,Nobles County (MN),887,16.1
+2012,Norman County (MN),255,16.7
+2012,Olmsted County (MN),"4,157",11.4
+2012,Otter Tail County (MN),"1,845",15.5
+2012,Pennington County (MN),489,15.1
+2012,Pine County (MN),"1,267",20.8
+2012,Pipestone County (MN),344,15.2
+2012,Polk County (MN),"1,271",17.6
+2012,Pope County (MN),358,15.8
+2012,Ramsey County (MN),"28,770",24.0
+2012,Red Lake County (MN),143,14.7
+2012,Redwood County (MN),603,15.9
+2012,Renville County (MN),562,16.4
+2012,Rice County (MN),"1,961",13.6
+2012,Rock County (MN),280,11.8
+2012,Roseau County (MN),427,11.0
+2012,St. Louis County (MN),"6,692",17.7
+2012,Scott County (MN),"2,563",6.5
+2012,Sherburne County (MN),"1,932",7.8
+2012,Sibley County (MN),567,15.5
+2012,Stearns County (MN),"4,009",11.8
+2012,Steele County (MN),"1,177",12.7
+2012,Stevens County (MN),236,11.7
+2012,Swift County (MN),323,15.6
+2012,Todd County (MN),"1,335",22.9
+2012,Traverse County (MN),131,18.2
+2012,Wabasha County (MN),521,10.6
+2012,Wadena County (MN),719,22.4
+2012,Waseca County (MN),581,13.1
+2012,Washington County (MN),"3,866",6.2
+2012,Watonwan County (MN),480,17.4
+2012,Wilkin County (MN),201,12.9
+2012,Winona County (MN),"1,343",14.3
+2012,Wright County (MN),"3,054",8.3
+2012,Yellow Medicine County (MN),307,13.2
+2013,Aitkin County (MN),620,23.3
+2013,Anoka County (MN),"8,485",10.3
+2013,Becker County (MN),"1,544",19.3
+2013,Beltrami County (MN),"3,044",27.3
+2013,Benton County (MN),"1,340",14.3
+2013,Big Stone County (MN),194,19.2
+2013,Blue Earth County (MN),"1,698",13.5
+2013,Brown County (MN),628,11.6
+2013,Carlton County (MN),"1,120",14.1
+2013,Carver County (MN),"1,387",5.2
+2013,Cass County (MN),"1,569",26.6
+2013,Chippewa County (MN),444,16.2
+2013,Chisago County (MN),"1,039",8.2
+2013,Clay County (MN),"1,829",13.3
+2013,Clearwater County (MN),529,24.6
+2013,Cook County (MN),141,16.5
+2013,Cottonwood County (MN),505,19.0
+2013,Crow Wing County (MN),"2,267",16.4
+2013,Dakota County (MN),"10,203",10.0
+2013,Dodge County (MN),535,9.6
+2013,Douglas County (MN),991,13.0
+2013,Faribault County (MN),531,18.2
+2013,Fillmore County (MN),784,16.1
+2013,Freeborn County (MN),"1,116",16.9
+2013,Goodhue County (MN),"1,221",11.6
+2013,Grant County (MN),205,16.4
+2013,Hennepin County (MN),"40,346",15.3
+2013,Houston County (MN),479,11.9
+2013,Hubbard County (MN),881,21.0
+2013,Isanti County (MN),994,10.8
+2013,Itasca County (MN),"1,911",20.5
+2013,Jackson County (MN),319,14.0
+2013,Kanabec County (MN),744,21.6
+2013,Kandiyohi County (MN),"1,767",18.1
+2013,Kittson County (MN),129,13.2
+2013,Koochiching County (MN),588,22.9
+2013,Lac qui Parle County (MN),208,14.3
+2013,Lake County (MN),325,16.6
+2013,Lake of the Woods County (MN),142,19.9
+2013,Le Sueur County (MN),765,11.2
+2013,Lincoln County (MN),176,13.6
+2013,Lyon County (MN),939,15.2
+2013,McLeod County (MN),"1,014",11.8
+2013,Mahnomen County (MN),624,38.3
+2013,Marshall County (MN),287,13.6
+2013,Martin County (MN),769,17.8
+2013,Meeker County (MN),685,12.2
+2013,Mille Lacs County (MN),"1,081",17.9
+2013,Morrison County (MN),"1,265",16.4
+2013,Mower County (MN),"1,777",18.7
+2013,Murray County (MN),237,13.1
+2013,Nicollet County (MN),843,11.7
+2013,Nobles County (MN),"1,073",19.4
+2013,Norman County (MN),297,19.8
+2013,Olmsted County (MN),"3,782",10.3
+2013,Otter Tail County (MN),"1,985",16.5
+2013,Pennington County (MN),471,14.6
+2013,Pine County (MN),"1,359",23.2
+2013,Pipestone County (MN),382,17.2
+2013,Polk County (MN),"1,256",17.4
+2013,Pope County (MN),306,13.5
+2013,Ramsey County (MN),"27,140",22.5
+2013,Red Lake County (MN),136,14.2
+2013,Redwood County (MN),520,13.7
+2013,Renville County (MN),592,17.8
+2013,Rice County (MN),"1,975",13.9
+2013,Rock County (MN),314,13.5
+2013,Roseau County (MN),449,11.9
+2013,St. Louis County (MN),"7,120",19.0
+2013,Scott County (MN),"2,652",6.7
+2013,Sherburne County (MN),"1,882",7.7
+2013,Sibley County (MN),500,13.7
+2013,Stearns County (MN),"4,282",12.6
+2013,Steele County (MN),"1,310",14.4
+2013,Stevens County (MN),226,11.4
+2013,Swift County (MN),288,14.2
+2013,Todd County (MN),"1,181",20.8
+2013,Traverse County (MN),133,18.3
+2013,Wabasha County (MN),560,11.7
+2013,Wadena County (MN),670,20.3
+2013,Waseca County (MN),601,14.0
+2013,Washington County (MN),"4,297",6.9
+2013,Watonwan County (MN),467,17.3
+2013,Wilkin County (MN),208,13.7
+2013,Winona County (MN),"1,285",14.0
+2013,Wright County (MN),"2,984",8.2
+2013,Yellow Medicine County (MN),325,14.1
+2014,Aitkin County (MN),645,23.9
+2014,Anoka County (MN),"8,767",10.7
+2014,Becker County (MN),"1,536",19.1
+2014,Beltrami County (MN),"2,785",24.8
+2014,Benton County (MN),"1,412",14.8
+2014,Big Stone County (MN),176,17.0
+2014,Blue Earth County (MN),"2,130",16.8
+2014,Brown County (MN),632,11.7
+2014,Carlton County (MN),"1,085",13.7
+2014,Carver County (MN),"1,477",5.5
+2014,Cass County (MN),"1,521",25.9
+2014,Chippewa County (MN),480,17.5
+2014,Chisago County (MN),921,7.3
+2014,Clay County (MN),"2,063",14.7
+2014,Clearwater County (MN),574,26.8
+2014,Cook County (MN),136,16.2
+2014,Cottonwood County (MN),513,18.9
+2014,Crow Wing County (MN),"2,245",16.3
+2014,Dakota County (MN),"9,827",9.6
+2014,Dodge County (MN),564,10.2
+2014,Douglas County (MN),973,12.7
+2014,Faribault County (MN),630,21.1
+2014,Fillmore County (MN),826,16.9
+2014,Freeborn County (MN),"1,216",18.4
+2014,Goodhue County (MN),"1,232",11.9
+2014,Grant County (MN),219,17.3
+2014,Hennepin County (MN),"45,438",17.1
+2014,Houston County (MN),422,10.7
+2014,Hubbard County (MN),817,19.3
+2014,Isanti County (MN),"1,073",11.7
+2014,Itasca County (MN),"2,037",21.8
+2014,Jackson County (MN),343,15.0
+2014,Kanabec County (MN),707,21.0
+2014,Kandiyohi County (MN),"1,823",18.7
+2014,Kittson County (MN),130,13.6
+2014,Koochiching County (MN),536,22.5
+2014,Lac qui Parle County (MN),198,14.3
+2014,Lake County (MN),300,15.3
+2014,Lake of the Woods County (MN),131,18.6
+2014,Le Sueur County (MN),730,10.9
+2014,Lincoln County (MN),170,13.2
+2014,Lyon County (MN),990,15.7
+2014,McLeod County (MN),941,11.2
+2014,Mahnomen County (MN),535,32.6
+2014,Marshall County (MN),272,12.8
+2014,Martin County (MN),840,19.5
+2014,Meeker County (MN),736,13.1
+2014,Mille Lacs County (MN),"1,047",17.3
+2014,Morrison County (MN),"1,205",15.8
+2014,Mower County (MN),"1,557",16.3
+2014,Murray County (MN),240,13.3
+2014,Nicollet County (MN),814,11.4
+2014,Nobles County (MN),"1,011",18.1
+2014,Norman County (MN),287,19.0
+2014,Olmsted County (MN),"4,718",12.9
+2014,Otter Tail County (MN),"1,948",16.1
+2014,Pennington County (MN),401,12.7
+2014,Pine County (MN),"1,459",25.1
+2014,Pipestone County (MN),407,18.1
+2014,Polk County (MN),"1,150",15.8
+2014,Pope County (MN),306,13.3
+2014,Ramsey County (MN),"29,535",24.1
+2014,Red Lake County (MN),114,11.5
+2014,Redwood County (MN),678,18.3
+2014,Renville County (MN),570,17.1
+2014,Rice County (MN),"2,296",16.0
+2014,Rock County (MN),282,12.1
+2014,Roseau County (MN),466,12.3
+2014,St. Louis County (MN),"7,491",19.9
+2014,Scott County (MN),"2,733",6.9
+2014,Sherburne County (MN),"2,123",8.7
+2014,Sibley County (MN),483,13.5
+2014,Stearns County (MN),"4,586",13.5
+2014,Steele County (MN),"1,533",16.9
+2014,Stevens County (MN),236,11.7
+2014,Swift County (MN),290,14.5
+2014,Todd County (MN),"1,423",24.9
+2014,Traverse County (MN),134,19.4
+2014,Wabasha County (MN),494,10.5
+2014,Wadena County (MN),727,22.4
+2014,Waseca County (MN),590,13.6
+2014,Washington County (MN),"4,195",6.8
+2014,Watonwan County (MN),443,16.4
+2014,Wilkin County (MN),184,12.7
+2014,Winona County (MN),"1,325",14.5
+2014,Wright County (MN),"2,453",6.7
+2014,Yellow Medicine County (MN),337,14.5
+2015,Aitkin County (MN),598,22.4
+2015,Anoka County (MN),"7,541",9.2
+2015,Becker County (MN),"1,335",16.5
+2015,Beltrami County (MN),"2,619",23.5
+2015,Benton County (MN),"1,286",13.5
+2015,Big Stone County (MN),160,15.9
+2015,Blue Earth County (MN),"1,794",14.0
+2015,Brown County (MN),571,10.6
+2015,Carlton County (MN),958,12.2
+2015,Carver County (MN),"1,263",4.7
+2015,Cass County (MN),"1,550",26.0
+2015,Chippewa County (MN),425,15.3
+2015,Chisago County (MN),974,7.9
+2015,Clay County (MN),"1,798",12.5
+2015,Clearwater County (MN),503,23.3
+2015,Cook County (MN),139,17.8
+2015,Cottonwood County (MN),521,19.1
+2015,Crow Wing County (MN),"2,039",14.9
+2015,Dakota County (MN),"9,227",9.1
+2015,Dodge County (MN),467,8.6
+2015,Douglas County (MN),886,11.4
+2015,Faribault County (MN),533,18.1
+2015,Fillmore County (MN),847,17.1
+2015,Freeborn County (MN),"1,287",19.7
+2015,Goodhue County (MN),"1,104",10.8
+2015,Grant County (MN),192,15.1
+2015,Hennepin County (MN),"37,142",13.9
+2015,Houston County (MN),408,10.2
+2015,Hubbard County (MN),784,18.3
+2015,Isanti County (MN),912,10.1
+2015,Itasca County (MN),"1,640",17.7
+2015,Jackson County (MN),286,13.0
+2015,Kanabec County (MN),612,18.2
+2015,Kandiyohi County (MN),"1,673",16.8
+2015,Kittson County (MN),136,14.1
+2015,Koochiching County (MN),532,22.0
+2015,Lac qui Parle County (MN),182,13.5
+2015,Lake County (MN),284,14.6
+2015,Lake of the Woods County (MN),116,16.2
+2015,Le Sueur County (MN),726,10.9
+2015,Lincoln County (MN),171,13.1
+2015,Lyon County (MN),"1,064",16.7
+2015,McLeod County (MN),916,11.0
+2015,Mahnomen County (MN),555,34.3
+2015,Marshall County (MN),250,11.6
+2015,Martin County (MN),826,19.5
+2015,Meeker County (MN),592,10.5
+2015,Mille Lacs County (MN),"1,092",18.5
+2015,Morrison County (MN),"1,139",15.0
+2015,Mower County (MN),"1,517",16.1
+2015,Murray County (MN),221,12.7
+2015,Nicollet County (MN),828,11.6
+2015,Nobles County (MN),986,17.2
+2015,Norman County (MN),267,17.6
+2015,Olmsted County (MN),"4,105",11.1
+2015,Otter Tail County (MN),"1,711",14.1
+2015,Pennington County (MN),387,12.0
+2015,Pine County (MN),"1,080",18.6
+2015,Pipestone County (MN),356,15.7
+2015,Polk County (MN),"1,178",16.2
+2015,Pope County (MN),294,13.0
+2015,Ramsey County (MN),"27,912",22.5
+2015,Red Lake County (MN),120,12.0
+2015,Redwood County (MN),574,15.4
+2015,Renville County (MN),497,15.2
+2015,Rice County (MN),"1,598",11.2
+2015,Rock County (MN),299,12.6
+2015,Roseau County (MN),460,12.0
+2015,St. Louis County (MN),"5,668",15.2
+2015,Scott County (MN),"2,397",6.0
+2015,Sherburne County (MN),"1,975",8.1
+2015,Sibley County (MN),431,12.3
+2015,Stearns County (MN),"4,963",14.3
+2015,Steele County (MN),"1,209",13.2
+2015,Stevens County (MN),177,8.6
+2015,Swift County (MN),306,15.2
+2015,Todd County (MN),"1,102",19.3
+2015,Traverse County (MN),156,22.7
+2015,Wabasha County (MN),447,9.7
+2015,Wadena County (MN),653,19.6
+2015,Waseca County (MN),589,13.6
+2015,Washington County (MN),"3,714",6.0
+2015,Watonwan County (MN),436,16.7
+2015,Wilkin County (MN),187,13.2
+2015,Winona County (MN),"1,163",12.7
+2015,Wright County (MN),"2,264",6.1
+2015,Yellow Medicine County (MN),335,15.0
+2016,Aitkin County (MN),580,22.5
+2016,Anoka County (MN),"7,568",9.2
+2016,Becker County (MN),"1,504",18.7
+2016,Beltrami County (MN),"2,789",24.8
+2016,Benton County (MN),"1,103",11.4
+2016,Big Stone County (MN),162,15.9
+2016,Blue Earth County (MN),"1,664",13.0
+2016,Brown County (MN),598,10.9
+2016,Carlton County (MN),976,12.4
+2016,Carver County (MN),"1,071",3.9
+2016,Cass County (MN),"1,540",25.5
+2016,Chippewa County (MN),389,14.2
+2016,Chisago County (MN),963,7.8
+2016,Clay County (MN),"1,965",13.3
+2016,Clearwater County (MN),485,22.5
+2016,Cook County (MN),99,12.2
+2016,Cottonwood County (MN),433,15.9
+2016,Crow Wing County (MN),"2,079",15.2
+2016,Dakota County (MN),"7,332",7.2
+2016,Dodge County (MN),438,8.1
+2016,Douglas County (MN),816,10.4
+2016,Faribault County (MN),504,17.2
+2016,Fillmore County (MN),961,19.1
+2016,Freeborn County (MN),"1,027",15.9
+2016,Goodhue County (MN),987,9.7
+2016,Grant County (MN),249,18.7
+2016,Hennepin County (MN),"37,515",14.0
+2016,Houston County (MN),423,10.5
+2016,Hubbard County (MN),878,20.4
+2016,Isanti County (MN),964,10.6
+2016,Itasca County (MN),"1,723",18.8
+2016,Jackson County (MN),259,12.1
+2016,Kanabec County (MN),659,20.0
+2016,Kandiyohi County (MN),"1,661",16.7
+2016,Kittson County (MN),136,14.8
+2016,Koochiching County (MN),518,22.6
+2016,Lac qui Parle County (MN),180,13.8
+2016,Lake County (MN),249,13.1
+2016,Lake of the Woods County (MN),107,15.9
+2016,Le Sueur County (MN),698,10.7
+2016,Lincoln County (MN),240,18.4
+2016,Lyon County (MN),958,14.9
+2016,McLeod County (MN),784,9.5
+2016,Mahnomen County (MN),496,29.8
+2016,Marshall County (MN),268,12.8
+2016,Martin County (MN),737,17.5
+2016,Meeker County (MN),551,10.0
+2016,Mille Lacs County (MN),"1,024",17.3
+2016,Morrison County (MN),"1,228",16.1
+2016,Mower County (MN),"1,423",14.9
+2016,Murray County (MN),222,12.7
+2016,Nicollet County (MN),776,10.7
+2016,Nobles County (MN),875,15.3
+2016,Norman County (MN),281,18.9
+2016,Olmsted County (MN),"3,684",9.9
+2016,Otter Tail County (MN),"1,726",14.0
+2016,Pennington County (MN),379,11.8
+2016,Pine County (MN),960,17.1
+2016,Pipestone County (MN),344,15.1
+2016,Polk County (MN),"1,468",19.9
+2016,Pope County (MN),274,12.1
+2016,Ramsey County (MN),"25,082",20.2
+2016,Red Lake County (MN),115,11.9
+2016,Redwood County (MN),500,13.7
+2016,Renville County (MN),467,14.6
+2016,Rice County (MN),"1,744",12.4
+2016,Rock County (MN),271,11.4
+2016,Roseau County (MN),409,11.0
+2016,St. Louis County (MN),"6,175",16.6
+2016,Scott County (MN),"2,641",6.6
+2016,Sherburne County (MN),"1,792",7.3
+2016,Sibley County (MN),417,12.2
+2016,Stearns County (MN),"4,393",12.6
+2016,Steele County (MN),"1,118",12.2
+2016,Stevens County (MN),194,9.7
+2016,Swift County (MN),311,14.7
+2016,Todd County (MN),"1,042",18.4
+2016,Traverse County (MN),138,20.5
+2016,Wabasha County (MN),458,9.9
+2016,Wadena County (MN),630,19.2
+2016,Waseca County (MN),548,12.5
+2016,Washington County (MN),"3,294",5.3
+2016,Watonwan County (MN),425,16.5
+2016,Wilkin County (MN),164,11.9
+2016,Winona County (MN),"1,068",11.7
+2016,Wright County (MN),"2,093",5.7
+2016,Yellow Medicine County (MN),317,14.1
