@@ -1,4 +1,4 @@
-indicator,year,geography,age,sex,povertyThreshold,count,population,percent,ci
+indicator,year,county,age,sex,povertyThreshold,count,population,percent,ci
 insurance,2011,Aitkin,Children (<19 years),Both combined,null,283,null,9.5,(7.7 - 11.3)
 insurance,2012,Aitkin,Children (<19 years),Both combined,null,261,null,9.1,(7.2 - 11.0)
 insurance,2013,Aitkin,Children (<19 years),Both combined,null,254,null,9,(7.3 - 10.7)
