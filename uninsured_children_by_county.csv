@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 county,County,Average Uninsured
 Aitkin,['Aitkin'],8.5
 Anoka,['Anoka'],5.0
@@ -87,3 +88,93 @@ Wilkin,['Wilkin'],5.5
 Winona,['Winona'],5.43
 Wright,['Wright'],4.65
 Yellow Medicine,['Yellow Medicine'],6.65
+=======
+County,Average Uninsured
+Aitkin,8.5
+Anoka,5
+Becker,8.38
+Beltrami,8.48
+Benton,4.65
+Big Stone,7.52
+Blue Earth,4.98
+Brown,4.92
+Carlton,6.45
+Carver,3.82
+Cass,9.45
+Chippewa,6.92
+Chisago,5
+Clay,4.78
+Clearwater,9.27
+Cook,9.57
+Cottonwood,6.65
+Crow Wing,5.72
+Dakota,4.28
+Dodge,4.98
+Douglas,5.07
+Faribault,6.43
+Fillmore,8.1
+Freeborn,5.88
+Goodhue,5.6
+Grant,6.8
+Hennepin,5.22
+Houston,5.7
+Hubbard,7.58
+Isanti,5.3
+Itasca,7.08
+Jackson,5.57
+Kanabec,6.3
+Kandiyohi,6.6
+Kittson,6.82
+Koochiching,7.57
+Lac Qui Parle,8.4
+Lake,5.65
+Lake of the Woods,8.45
+Le Sueur,5.8
+Lincoln,7.8
+Lyon,5.65
+Mahnomen,9.12
+Marshall,7.22
+Martin,5.85
+McLeod,5.28
+Meeker,6.18
+Mille Lacs,6.65
+Morrison,6.5
+Mower,6.88
+Murray,7.07
+Nicollet,4.42
+Nobles,8.83
+Norman,7.25
+Olmsted,4.72
+Otter Tail,6
+Pennington,4.88
+Pine,7.1
+Pipestone,7.28
+Polk,6.08
+Pope,6.58
+Ramsey,5.7
+Red Lake,7.78
+Redwood,7.8
+Renville,7.35
+Rice,6.8
+Rock,6.1
+Roseau,6.07
+Scott,4.5
+Sherburne,4.65
+Sibley,7.95
+St. Louis,5.22
+Stearns,5.02
+Steele,5
+Stevens,6
+Swift,5.55
+Todd,9.78
+Traverse,9.15
+Wabasha,5.75
+Wadena,6.32
+Waseca,5.68
+Washington,4.22
+Watonwan,9.98
+Wilkin,5.5
+Winona,5.43
+Wright,4.65
+Yellow Medicine,6.65
+>>>>>>> data_analysis_candy
